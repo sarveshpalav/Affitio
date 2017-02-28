@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Category">
+        <menu>
+            <item
+                android:id="@+id/livingroom"
+                android:icon="@drawable/livingroombackdrop"
+                android:title="Living Room" />
+            <item
+                android:id="@+id/bedroom"
+                android:icon="@drawable/bed"
+                android:title="Kitchen" />
+            <item
+                android:id="@+id/dining"
+                android:icon="@drawable/dining"
+                android:title="Kitchen" />
+        </menu>
+    </item>
+
+
+
+</menu>
