@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity
         switch (itemId) {
             case R.id.livingroom:
                 fragment = new LivingRoomFragment();
+
                 break;
 
         }
